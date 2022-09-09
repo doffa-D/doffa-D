@@ -4,14 +4,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=eb9ca2&center=true&width=500&vCenter=true&lines=Welcome+to+my+Github+Profile;I'm+DOFFA;I'm+studying+Computer+Engineering+at+1337" alt="Typing SVG" />
 </p>
 
-<p align ="center">
+<div align ="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/doooffy)](https://twitter.com/doooffy)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/*****/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hossam.dagdag@gmail.com)](mailto:hossam.dagdag@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_doffa/)](https://www.instagram.com/_doffa/)
 
-</p>
+</div>
 
 
 
