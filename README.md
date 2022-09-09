@@ -13,18 +13,6 @@
 
 </div>
 
-##  42 Profile Badges
-
- <div align="center">
-
-[![<username>'s 42 stats](https://badge.mediaplus.ma/levi/hdagdagu)](https://github.com/aechaoub/badge42)
- 
- 
-![trophy](https://github-profile-trophy.vercel.app/?username=doffa-D)
- 
- 
- </div>
-
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px > 
 
 <div align ="center">
@@ -88,6 +76,19 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
  </div>
+ 
+##  42 Profile Badges
+
+ <div align="center">
+
+[![<username>'s 42 stats](https://badge.mediaplus.ma/levi/hdagdagu)](https://github.com/aechaoub/badge42)
+ 
+ 
+![trophy](https://github-profile-trophy.vercel.app/?username=doffa-D)
+ 
+ 
+ </div>
+
   </div>
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
