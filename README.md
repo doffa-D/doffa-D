@@ -88,6 +88,12 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
  </div>
+  </div>
+ <p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 <!--
 **doffa-D/doffa-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
