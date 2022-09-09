@@ -20,7 +20,7 @@
 [![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/hdagdagu)](https://github.com/aechaoub/badge42)
  
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=doffa-D)]
+![trophy](https://github-profile-trophy.vercel.app/?username=doffa-D)
  
  
  </div>
