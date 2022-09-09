@@ -84,8 +84,8 @@
 [![<username>'s 42 stats](https://badge.mediaplus.ma/levi/hdagdagu)](https://github.com/aechaoub/badge42)
  
  
-![trophy](https://github-profile-trophy.vercel.app/?username=doffa-D)
- 
+![](https://github-profile-trophy.vercel.app/?username=doffa-D&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
  
  </div>
 
