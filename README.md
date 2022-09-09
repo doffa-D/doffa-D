@@ -93,9 +93,7 @@
  
 <a  href="https://github.com/doffa-D">
 
-<img src="https://github-readme-stats.vercel.app/api?username=doffa-D&show_icons=true&theme=radical" style="    height: 180px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doffa-D&layout=compact&theme=dracula" style="    height: 180px;">
-
+<img src="https://github-readme-stats.vercel.app/api?username=doffa-D&show_icons=true&theme=radical">
 </a>
  <br>
 
