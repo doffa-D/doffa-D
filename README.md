@@ -81,10 +81,7 @@
 
  <div align="center">
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/levi/hdagdagu)](https://github.com/aechaoub/badge42)
- 
- 
-![](https://github-profile-trophy.vercel.app/?username=doffa-D&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+[![hdagdagu's 42 stats](https://badge42.vercel.app/api/v2/cl8ltkjyz00160gjuq0wtbcru/stats?cursusId=21&coalitionId=277)](https://github.com/JaeSeoKim/badge42)
 
  
  </div>
