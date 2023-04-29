@@ -43,7 +43,7 @@
 │ 
 ╰─────────────────────────────────────────▣▣▣─╯
 
-╭───❖─╮ 🚀 42 PROJECTS ╭─❖────────────────────────────▣▣▣─╮
+╭───❖─╮ 🚀 PROJECTS ╭─❖────────────────────────────▣▣▣─╮
 │ 
 ├▣╮🦩╭▣ <a href="https://github.com/doffa-D/Piscine-March-2022">[Piscine 2022]</a>
 ├▣╮🦩╭▣ <a href="https://github.com/doffa-D/Piscine_exam">[Piscine exam]</a>
