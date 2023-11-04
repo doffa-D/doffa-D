@@ -66,7 +66,7 @@
 
 ╭───❖─╮🔗 CONNECT WITH ME: ╭─❖─────────────────────▣▣▣─╮
 │
-├─▣🦩▣╮ Discord: D O F L M I N G O#4493 
+├─▣🦩▣╮ Discord: doffaa 
 │ 
 ╰──────────────▣▣▣─╯
 
