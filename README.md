@@ -60,6 +60,8 @@
 ├▣╮🦩╭▣ <a href="https://github.com/doffa-D/42-Corrections ">[42 Corrections]</a>
 ├▣╮🦩╭▣ <a href="https://github.com/doffa-D/so_long-Map-Generator">[so_long Map Generator]</a>
 │▣╮🦩╭▣ <a href="https://github.com/doffa-D/inception">[inception]</a>
+│▣╮🦩╭▣ <a href="https://github.com/doffa-D/Webserve">[Webserve]</a>
+│▣╮🦩╭▣ <a href="https://github.com/doffa-D/ft_transcendence">[ft_transcendence]</a>
 │ 
 ╰─────────────────────────────────────────▣▣▣─╯
 
