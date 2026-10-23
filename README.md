@@ -81,11 +81,9 @@
 |:-:|:-:|
 
 <p align="center">
-	<img alt="doffa-D's visitors" src="https://komarev.com/ghpvc/?username=doffa-D&color=8c36db&style=flat&label=visitors" />
-	<img alt="doffa-D's followers" src="https://img.shields.io/github/followers/doffa-D?color=blueviolet" />
-	<img alt="doffa-D's stars" src="https://img.shields.io/github/stars/doffa-D?color=blueviolet" />
+    <img alt="doffa-D's visitors" src="https://komarev.com/ghpvc/?username=doffa-D&color=8c36db&style=flat&label=visitors" />
+    <img alt="doffa-D's followers" src="https://img.shields.io/github/followers/doffa-D?color=blueviolet" />
+    <img alt="doffa-D's stars" src="https://img.shields.io/github/stars/doffa-D?color=blueviolet" />
 </p>
 
 ---------------
-
-
