@@ -77,24 +77,6 @@
 
 </pre>
 
-## 🧱 Experience
-
-| When | What |
-|:--|:--|
-| **Jul 2024 – Feb 2026** | **Ederest · Backend, AI & Team Lead.** Designed the backend and AI architecture of an ERP/SAP training platform: 30+ Django services (course operations, RAG assistants, AI transcription, certification, gamification, billing, storage, SSO, notifications, remote desktop workflows). Led a team of 6 engineers through to delivery. |
-| **Jan 2024 – Jan 2025** | **Independent AI & systems engineer.** AIMbot (real-time computer vision with YOLOv12, TensorRT and CUDA, under 100 ms capture to actuator), OpenSok (AI tools marketplace: multi-tenant access, subscriptions, API gateway), Trading Agent (multi-agent signal system), Visual Browser (VS Code extension on Chrome DevTools Protocol), Floated AI (Electron + Django desktop assistant). |
-| **Jan 2022 – Jan 2024** | **Software systems developer.** MeetMind (real-time meeting intelligence backend), HyperTube (BitTorrent streaming with FFmpeg transcoding and HLS), Matcha (full-stack matching platform), Inception-of-Things (K3s, Argo CD, GitOps). |
-| **Jan 2021 – Jan 2024** | **Low-level systems & security research.** Windows kernel driver (DKOM), `ft_ping` in C with raw sockets, Arduino USB HID firmware, CAPTCHA-recognition CNNs in PyTorch. |
-
-## 🛠️ Stack
-
-- **Backend & architecture:** Django, Django REST Framework, Flask, Node.js, microservices, event-driven design, API gateways, REST, WebSockets, OAuth 2.0, JWT
-- **AI & runtime:** RAG, LangChain, FAISS, Whisper, PyTorch, CNNs, YOLOv12, TensorRT, CUDA, multi-agent orchestration
-- **Low level & performance:** C, C++, Windows kernel, raw sockets, USB HID, Arduino, memory safety, latency optimisation
-- **Cloud & data:** PostgreSQL, Redis, Celery, RabbitMQ, Docker, Kubernetes, K3s, K3d, Argo CD, Traefik, S3, Azure AD, Stripe
-- **Frontend & tooling:** React, TypeScript, Electron, Tailwind CSS, Vite, VS Code API, Chrome DevTools Protocol
-- **AI dev tools:** Claude Code, Codex, Cursor, Kiro
-
 ## 🏆 Distinctions
 
 - **CodinGame Challenge:** 1st in Morocco, 23rd worldwide out of 16,365 participants
