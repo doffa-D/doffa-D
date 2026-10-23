@@ -1,91 +1,54 @@
-</p>
-
-
-<p align="center">  
-<img src="https://64.media.tumblr.com/649c4e0a415a87e9d93ea661151c0857/4bdcb6fc9a541bc9-8f/s540x810/dec84eafe22fde61da550bbc86a7ddf955013d91.gifv"><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=eb9ca2&center=true&width=500&vCenter=true&lines=Welcome+to+my+Github+Profile;I'm+DOFFA" alt="Typing SVG" />
-</p>
-
-<div align ="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/doooffy)](https://twitter.com/doooffy)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssam-dagdague-13b000189/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hossam.dagdag@gmail.com)](mailto:hossam.dagdag@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_doffa/)](https://www.instagram.com/_doffa/)
-
-</div>
-
-> Yo! , I'm a software engineering student at [1337 School med](https://1337.ma/en/)
-> I'm passionate about learning new technologies and building cool projects.
-> As Roy Bennett said, "Don’t wait for things to happen. Make them happen."
-> Let's create something amazing together!
-
-
-
+<h1 align="center">Houssam Dagdague</h1>
 
 <p align="center">
- <div align="center">
-
-[![Hdagdagu's 42 stats](https://badge.mediaplus.ma/starryblue/Hdagdagu)](https://github.com/oakoudad/badge42) 
- </div>
- </p>
-
-
-
-<pre>
-
-╭───❖─╮ WHOAMI ╭─❖─────────────────────────────────────────▣▣▣─╮
-│ 
-├─▣🦩▣╮ 💻 Software Engineer Student at 1337 Med 🇲🇦
-├─▣🦩▣╮ 📍 From Agadir Morocco 🌍
-├─▣🦩▣╮ 🧐 am passionate about solving complex problems and aim to find the most effective solution through a systematic approach. 
-├─▣🦩▣╮ 🌟 Passionate about exploring the endless potential of Programming, Robotics, and Cloud computing. 
-│ 
-╰─────────────────────────────────────────▣▣▣─╯
-╭───❖─╮ 🚀 PROJECTS ╭─❖────────────────────────────▣▣▣─╮
-│ 
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/Piscine-March-2022">[Piscine 2022]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/Piscine_exam">[Piscine exam]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/libft ">[libft]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/get_next_line ">[get_next_line]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/ft_printf ">[ft_printf]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/born2beroot ">[Born2beroot]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/Minitalk ">[Minitalk]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/so_long ">[So_long]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/Push_Swap ">[Push_Swap]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/philosophers ">[Philosophers]</a>
-├▣╮🦩╭▣ <a href="https://github.com/Escanour-n/minishell_v99 ">[minishell]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/CPP_Modules ">[CPP_Modules]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/Exam-rank-3">[Exam rank 3]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/42-Corrections ">[42 Corrections]</a>
-├▣╮🦩╭▣ <a href="https://github.com/doffa-D/so_long-Map-Generator">[so_long Map Generator]</a>
-│▣╮🦩╭▣ <a href="https://github.com/doffa-D/inception">[inception]</a>
-│▣╮🦩╭▣ <a href="https://github.com/doffa-D/Webserve">[Webserve]</a>
-│▣╮🦩╭▣ <a href="https://github.com/doffa-D/ft_transcendence">[ft_transcendence]</a>
-│ 
-╰─────────────────────────────────────────▣▣▣─╯
-
-
-
-╭───❖─╮🔗 CONNECT WITH ME: ╭─❖─────────────────────▣▣▣─╮
-│
-├─▣🦩▣╮ Discord: doffaa 
-│ 
-╰──────────────▣▣▣─╯
-
-</pre>
-
---------------
-
-| [![doffa-D GitHub stats](https://github-readme-stats.vercel.app/api?username=doffa-D&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/doffa-D?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doffa-D&layout=compact&hide_border=true&theme=jolly)](https://github.com/doffa-D?tab=repositories) |
-|:-:|:-:|
-
-<p align="center">
-	<img alt="doffa-D's visitors" src="https://komarev.com/ghpvc/?username=doffa-D&color=8c36db&style=flat&label=visitors" />
-	<img alt="doffa-D's followers" src="https://img.shields.io/github/followers/doffa-D?color=blueviolet" />
-	<img alt="doffa-D's stars" src="https://img.shields.io/github/stars/doffa-D?color=blueviolet" />
+  Software engineer · 1337 School (Med) · Agadir, Morocco 🇲🇦<br/>
+  Systems programming, applied machine learning and developer tooling.
 </p>
 
----------------
+<p align="center">
+  <a href="https://www.linkedin.com/in/houssam-dagdague-13b000189/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hossam.dagdag@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/doooffy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
 
+## About
 
+I'm a software engineering student at [1337 School](https://1337.ma/en/). I like problems where the solution has to be both correct and fast: low-level C/C++ systems work, reinforcement learning, and tools that remove repetitive work for developers.
+
+## Selected projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **CodinGame training framework** (private) | Framework for training game-playing agents against C++ simulators: IQN and Double Q-learning, prioritized n-step replay, masked actions, checkpoint recovery and standalone C++ inference export. | Python, PyTorch, C++ |
+| [**Melon (screenpip-hackathon)**](https://github.com/doffa-D/screenpip-hackathon) | "Memory to action": uses a local screen recorder to find tasks you already did once and repeat them for you, with you in control. | Python |
+| [**visual-browser**](https://github.com/doffa-D/visual-browser) | VS Code extension with an integrated browser. Click an element on your running app to capture its HTML, styles and context for an AI coding assistant. | TypeScript |
+| [**Inception-of-Things**](https://github.com/doffa-D/Inception-of-Things) | Kubernetes from scratch: a two-node K3s cluster, Ingress routing for three apps, and a GitOps pipeline with K3d and Argo CD. | Vagrant, K3s, K3d, Argo CD |
+| [**Matcha**](https://github.com/doffa-D/Matcha) | Full-stack dating app built as a micro-framework with raw SQL and a modular architecture instead of an ORM. | TypeScript |
+| [**inception**](https://github.com/doffa-D/inception) | Multi-container web infrastructure with Docker Compose. | Docker, Shell |
+| [**Webserve**](https://github.com/doffa-D/Webserve) | HTTP server written in C++98. | C++ |
+
+## Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 42 curriculum
+
+Completed Piscine, libft, get_next_line, ft_printf, Born2beroot, Minitalk, push_swap, so_long, Philosophers, minishell, CPP Modules, Inception, Webserv and ft_transcendence.
+Exam preparation: [Exam-rank-06](https://github.com/doffa-D/Exam-rank-06), [42-Exam_rank](https://github.com/doffa-D/42-Exam_rank).
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=doffa-D&count_private=true&show_icons=true&hide_border=true&theme=dark" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doffa-D&layout=compact&hide_border=true&theme=dark" alt="Top languages"/>
+</p>
